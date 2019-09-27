@@ -1,0 +1,36 @@
+{
+    "name": "solarized-mono",
+    "version": "1.0.0",
+    "displayName": "Solarized",
+    "description": "Solarized theme for VS Code with minimal syntax highlighting",
+    "publisher": "flowchartsman",
+    "repository": "https://github.com/flowchartsman/vscode-solarized-mono-theme",
+    "license": "MIT",
+    "icon": "icon.png",
+    "keywords": [
+        "monochrome",
+        "solarized",
+        "dark",
+        "light"
+    ],
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Monochrome Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-color-theme.json"
+            },
+            {
+                "label": "Solarized Monochrome Light",
+                "uiTheme": "vs",
+                "path": "./themes/light-color-theme.json"
+            }
+        ]
+    }
+}
