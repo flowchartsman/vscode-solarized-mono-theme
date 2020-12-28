@@ -26,6 +26,7 @@
 		"editor.selectionBackground": "#eee8d5",
 		"editorHoverWidget.background": "#ccc4b0",
 		"editor.lineHighlightBackground": "#eee8d5",
+		"editor.selectionHighlightBackground": "#cb4b1620",
 		"editorCursor.foreground": "#657b83",
 		"editorWhitespace.foreground": "#586e7580",
 		"editorLineNumber.foreground": "#9ca8a6",
@@ -52,7 +53,7 @@
 		"statusBarItem.prominentHoverBackground": "#ddd6c199",
 		"activityBar.background": "#ddd6c1",
 		"activityBar.foreground": "#584c27",
-		"activityBar.dropBackground": "#eee8d5",
+		"activityBar.dropBorder": "#b58900",
 		"activityBarBadge.background": "#b58900",
 		"sideBar.background": "#eee8d5",
 		"sideBarTitle.foreground": "#586e75",
@@ -184,6 +185,6 @@
             "settings": {
                 //"fontStyle": "bold"
             }
-        }
+		}
     ]
 }

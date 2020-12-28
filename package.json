@@ -1,6 +1,6 @@
 {
     "name": "solarized-mono",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Solarized Monochrome Theme",
     "description": "Solarized theme for VS Code with minimal syntax highlighting",
     "publisher": "flowchartsman",

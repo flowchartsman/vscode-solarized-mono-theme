@@ -31,9 +31,9 @@
 		"editor.background": "#002b36",
 		"editorWidget.background": "#00212b",
 		"editor.selectionBackground": "#073642",
-		"editor.selectionHighlightBackground": "#005a6faa",
 		"editorHoverWidget.background": "#004052",
 		"editor.lineHighlightBackground": "#073642",
+		"editor.selectionHighlightBackground": "#85990020",
 		"editorCursor.foreground": "#839496",
 		"editorWhitespace.foreground": "#93a1a180",
 		"editorLineNumber.foreground": "#566c74",
@@ -106,7 +106,7 @@
             ],
             "settings": {
 				"foreground": "#93a1a1",
-				"fontStyle": "bold",
+				"fontStyle": "bold"
             }
         },
         {
@@ -125,7 +125,7 @@
 			],
 			"settings":{
 				"foreground":"#859900",
-				"fontStyle": "",
+				"fontStyle": ""
 			}
 		},
         {
